@@ -80,9 +80,8 @@ FuckSpringScan 是一款为安全服务人员设计的针对Spring框架的综�
 
 ## 📫 联系我们
 
-- **Email**: [contact@example.com](mailto:contact@example.com)
-- **Twitter**: [@JishiTeamJ1wa](https://twitter.com/JishiTeamJ1wa)
+- **Email**: [J1wa]([test@tes.com](https://www.baidu.com))
+- **Twitter**: [@JishiTeamJ1wa](https://www.baidu.com)
 
 ---
 
-![Footer](https://example.com/footer.png)
