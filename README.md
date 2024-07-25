@@ -1,4 +1,4 @@
-![Header](https://example.com/header.png)
+
 
 # 欢迎来到 JishiTeam-J1wa 的 GitHub 👋
 
