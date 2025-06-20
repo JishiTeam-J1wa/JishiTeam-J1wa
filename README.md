@@ -137,14 +137,13 @@
 |------|----------|------|------|
 | 🔍 **目录扫描** | [DirAScan](https://github.com/JishiTeam-J1wa/DirAScan) | AI 驱动的智能目录扫描工具 | ✅ 活跃 |
 | 🕵️ **指纹识别** | [WebFingerCat](https://github.com/JishiTeam-J1wa/WebFingerCat) | 被动指纹检测与信息收集 | ✅ 活跃 |
-| 🚀 **代理工具** | [HackMITM](https://github.com/JishiTeam-J1wa/hackmitm) | 高性能 MITM 代理处理包 | 🔥 最新 |
-| 🌱 **框架扫描** | [FuckSpringScan](https://github.com/JishiTeam-J1wa/FuckSpringScan) | Spring 框架专项漏洞扫描 | ✅ 活跃 |
+| 🚀 **MITM** | [HackMITM](https://github.com/JishiTeam-J1wa/hackmitm) | 高性能 MITM 代理处理包 | 🔥 最新 |
+| 🌱 **Spring** | [FuckSpringScan](https://github.com/JishiTeam-J1wa/FuckSpringScan) | Spring 框架专项漏洞扫描 | ✅ 活跃 |
 | 🔴 **漏洞扫描** | [1LoveRuby++](https://github.com/JishiTeam-J1wa/1LoveRuby-) | 下一代漏洞扫描工具 | ✅ 活跃 |
-| 📡 **态势感知** | [朱厌 ZhuYan](https://github.com/JishiTeam-J1wa/ZhuYan) | 网络空间雷达与舆情监控 | ✅ 活跃 |
+| 📡 **暗网雷达** | [朱厌 ZhuYan](https://github.com/JishiTeam-J1wa/ZhuYan) | 网络空间雷达与舆情监控 | ✅ 活跃 |
 | 🎯 **攻击面** | [GlaoexpSP](https://github.com/JishiTeam-J1wa/GlaoexpSP) | 攻击面检测与资产梳理平台 | ✅ 活跃 |
 | 📋 **监控工具** | [Choccy](https://github.com/JishiTeam-J1wa/Choccy) | GitHub 项目监控 & CodeQL 扫描 | ✅ 活跃 |
 | 🗂️ **信息收集** | [gshark](https://github.com/JishiTeam-J1wa/gshark) | 敏感信息搜索和检测 | ✅ 活跃 |
-| 🎯 **偷子工具** | [Kitsune](https://github.com/JishiTeam-J1wa/Kitsune) | 特殊用途安全工具 | ✅ 活跃 |
 
 </div>
 
