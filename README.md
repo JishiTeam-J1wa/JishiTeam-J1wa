@@ -53,7 +53,7 @@
 
 ---
 
-## 🔥 核心项目展示
+## 核心项目展示
 
 <div align="center">
 
@@ -61,104 +61,78 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 **HackMITM** ⭐ *最新力作*
+### **HackMITM**
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JishiTeam-J1wa&repo=hackmitm&theme=tokyonight&border_color=FF6B35&title_color=FF6B35&icon_color=FF8C42)](https://github.com/JishiTeam-J1wa/hackmitm)
 
-**🎯 高性能 MITM 代理工具**
-- 🚀 纯 Go 语言实现，零依赖
-- 🔐 企业级 TLS 证书管理
-- ⚡ 高并发处理架构
-- 🧩 模块化可扩展设计
+高性能 MITM 代理工具
+- 纯 Go 语言实现，零依赖
+- 企业级 TLS 证书管理
+- 高并发处理架构
+- 模块化可扩展设计
 
 </td>
 <td width="50%" valign="top">
 
-### 🕵️ **WebFingerCat**
+### **WebFingerCat**
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JishiTeam-J1wa&repo=WebFingerCat&theme=tokyonight&border_color=FF6B35&title_color=FF6B35&icon_color=FF8C42)](https://github.com/JishiTeam-J1wa/WebFingerCat)
 
-**🐾 智能指纹识别工具**
-- 🔍 主被动交互式扫描
-- 📊 高精度指纹识别
-- 🛡️ 敏感信息收集
-- ⚙️ 灵活的 FUZZ 功能
+智能指纹识别工具
+- 主被动交互式扫描
+- 高精度指纹识别
+- 敏感信息收集
+- 灵活的 FUZZ 功能
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 **DirAScan** (DirA+)
+### **DirAScan** (DirA+)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JishiTeam-J1wa&repo=DirAScan&theme=tokyonight&border_color=FF6B35&title_color=FF6B35&icon_color=FF8C42)](https://github.com/JishiTeam-J1wa/DirAScan)
 
-**🤖 AI 驱动目录扫描器**
-- 🧠 机器学习字典生成
-- 🕷️ 智能网页爬虫
-- ⚡ 高效精准扫描
-- 📚 自适应字典优化
+AI 驱动目录扫描器
+- 机器学习字典生成
+- 智能网页爬虫
+- 高效精准扫描
+- 自适应字典优化
 
 </td>
 <td width="50%" valign="top">
 
-### 🎯 **FuckSpringScan**
+### **FuckSpringScan**
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JishiTeam-J1wa&repo=FuckSpringScan&theme=tokyonight&border_color=FF6B35&title_color=FF6B35&icon_color=FF8C42)](https://github.com/JishiTeam-J1wa/FuckSpringScan)
 
-**🌱 Spring 框架专项扫描**
-- 🎯 Spring 漏洞专项检测
-- 💎 精准 PoC 集成
-- 🛡️ 优秀安全对抗能力
-- 📚 高效字典目录
+Spring 框架专项扫描
+- Spring 漏洞专项检测
+- 精准 PoC 集成
+- 优秀安全对抗能力
+- 高效字典目录
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔴 **1LoveRuby++**
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JishiTeam-J1wa&repo=1LoveRuby-&theme=tokyonight&border_color=FF6B35&title_color=FF6B35&icon_color=FF8C42)](https://github.com/JishiTeam-J1wa/1LoveRuby-)
+### **AoEo**
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JishiTeam-J1wa&repo=AoEo&theme=tokyonight&border_color=FF6B35&title_color=FF6B35&icon_color=FF8C42)](https://github.com/JishiTeam-J1wa/AoEo)
 
-**🚀 下一代漏洞扫描工具**
-- 🔴 多引擎漏洞检测
-- ⚡ 高性能并发扫描
-- 🧩 插件化架构设计
-- 📊 可视化报告输出
-
-</td>
-<td width="50%" valign="top">
-
-### 📡 **朱厌 ZhuYan**
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JishiTeam-J1wa&repo=ZhuYan&theme=tokyonight&border_color=FF6B35&title_color=FF6B35&icon_color=FF8C42)](https://github.com/JishiTeam-J1wa/ZhuYan)
-
-**🌐 网络空间雷达与舆情监控**
-- 📡 暗网数据爬取与分析
-- 🗺️ 资产测绘与暴露面梳理
-- ⚡ 实时威胁情报推送
-- 🔍 多维度数据关联分析
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎯 **GlaoexpSP**
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JishiTeam-J1wa&repo=GlaoexpSP&theme=tokyonight&border_color=FF6B35&title_color=FF6B35&icon_color=FF8C42)](https://github.com/JishiTeam-J1wa/GlaoexpSP)
-
-**🛡️ 攻击面检测与资产梳理平台**
-- 🎯 深度攻击面挖掘
-- 📊 资产分级分类管理
-- ⚡ 自动化风险评估
-- 🔗 多源数据聚合分析
+自动化安全运营与编排平台
+- 工作流自动化编排
+- 多源安全数据聚合
+- 自定义检测规则引擎
+- 可视化策略管理
 
 </td>
 <td width="50%" valign="top">
 
-### 📋 **Choccy**
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JishiTeam-J1wa&repo=Choccy&theme=tokyonight&border_color=FF6B35&title_color=FF6B35&icon_color=FF8C42)](https://github.com/JishiTeam-J1wa/Choccy)
+### **Xunfeng**
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JishiTeam-J1wa&repo=Xunfeng&theme=tokyonight&border_color=FF6B35&title_color=FF6B35&icon_color=FF8C42)](https://github.com/JishiTeam-J1wa/Xunfeng)
 
-**🔍 GitHub 项目监控 & CodeQL 扫描**
-- 📋 开源项目安全监控
-- 🔍 CodeQL 自动化分析
-- ⚡ 漏洞预警通知
-- 📊 安全态势可视化
+企业级资产测绘与漏洞扫描
+- 分布式资产发现
+- 深度漏洞检测引擎
+- 自动化报告生成
+- 持续风险监控
 
 </td>
 </tr>
@@ -183,21 +157,18 @@
 
 ---
 
-## 🛡️ 我们的工具矩阵
+## 工具矩阵
 
 <div align="center">
 
 | 类别 | 工具名称 | 描述 | 状态 |
 |------|----------|------|------|
-| 🔍 **目录扫描** | [DirAScan](https://github.com/JishiTeam-J1wa/DirAScan) | AI 驱动的智能目录扫描工具 | 🟢 活跃 |
-| 🕵️ **指纹识别** | [WebFingerCat](https://github.com/JishiTeam-J1wa/WebFingerCat) | 被动指纹检测与信息收集 | 🟢 活跃 |
-| 🚀 **MITM** | [HackMITM](https://github.com/JishiTeam-J1wa/hackmitm) | 高性能 MITM 代理处理包 | 🔥 最新 |
-| 🌱 **Spring** | [FuckSpringScan](https://github.com/JishiTeam-J1wa/FuckSpringScan) | Spring 框架专项漏洞扫描 | 🟢 活跃 |
-| 🔴 **漏洞扫描** | [1LoveRuby++](https://github.com/JishiTeam-J1wa/1LoveRuby-) | 下一代漏洞扫描工具 | 🟢 活跃 |
-| 📡 **暗网雷达** | [朱厌 ZhuYan](https://github.com/JishiTeam-J1wa/ZhuYan) | 网络空间雷达与舆情监控 | 🟢 活跃 |
-| 🎯 **攻击面** | [GlaoexpSP](https://github.com/JishiTeam-J1wa/GlaoexpSP) | 攻击面检测与资产梳理平台 | 🟢 活跃 |
-| 📋 **监控工具** | [Choccy](https://github.com/JishiTeam-J1wa/Choccy) | GitHub 项目监控 & CodeQL 扫描 | 🟢 活跃 |
-| 🗂️ **信息收集** | [gshark](https://github.com/JishiTeam-J1wa/gshark) | 敏感信息搜索和检测 | 🟢 活跃 |
+| MITM 代理 | [HackMITM](https://github.com/JishiTeam-J1wa/hackmitm) | 高性能 MITM 代理处理包 | 活跃 |
+| 指纹识别 | [WebFingerCat](https://github.com/JishiTeam-J1wa/WebFingerCat) | 被动指纹检测与信息收集 | 活跃 |
+| 目录扫描 | [DirAScan](https://github.com/JishiTeam-J1wa/DirAScan) | AI 驱动的智能目录扫描工具 | 活跃 |
+| Spring 扫描 | [FuckSpringScan](https://github.com/JishiTeam-J1wa/FuckSpringScan) | Spring 框架专项漏洞扫描 | 活跃 |
+| 安全编排 | [AoEo](https://github.com/JishiTeam-J1wa/AoEo) | 自动化安全运营与编排平台 | 活跃 |
+| 资产测绘 | [Xunfeng](https://github.com/JishiTeam-J1wa/Xunfeng) | 企业级资产测绘与漏洞扫描 | 活跃 |
 
 </div>
 
