@@ -18,6 +18,10 @@
 
 *「与清风斗，I like heisi」*
 
+[![GitHub Followers](https://img.shields.io/github/followers/JishiTeam-J1wa?style=for-the-badge&logo=github&color=FF6B35)](https://github.com/JishiTeam-J1wa)
+[![GitHub Stars](https://img.shields.io/github/stars/JishiTeam-J1wa?style=for-the-badge&logo=github&color=FF8C42)](https://github.com/JishiTeam-J1wa)
+[![GitHub Forks](https://img.shields.io/github/forks/JishiTeam-J1wa?style=for-the-badge&logo=github&color=FF2A6D)](https://github.com/JishiTeam-J1wa)
+
 [![安全研究](https://img.shields.io/badge/-%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6-FF6B35?style=for-the-badge)](https://github.com/JishiTeam-J1wa)
 [![工具开发](https://img.shields.io/badge/-%E5%B7%A5%E5%85%B7%E5%BC%80%E5%8F%91-FF8C42?style=for-the-badge)](https://github.com/JishiTeam-J1wa)
 [![渗透测试](https://img.shields.io/badge/-%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95-FF2A6D?style=for-the-badge)](https://github.com/JishiTeam-J1wa)
@@ -49,6 +53,28 @@
 ![Nmap](https://img.shields.io/badge/Nmap-FF6B35?style=for-the-badge&logo=nmap&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-FF8C42?style=for-the-badge&logo=wireshark&logoColor=white)
 
+### 平台 & 框架
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+</div>
+
+---
+
+## GitHub 数据统计
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JishiTeam-J1wa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=FF6B35&title_color=FF6B35&icon_color=FF8C42&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JishiTeam-J1wa&layout=compact&langs_count=8&theme=tokyonight&border_color=FF6B35&title_color=FF6B35&text_color=ffffff"/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JishiTeam-J1wa&theme=tokyonight&border=FF6B35&stroke=FF6B35&ring=FF8C42&fire=FF2A6D&currStreakNum=FF6B35&sideNums=FF8C42&currStreakLabel=FF6B35&sideLabels=FF8C42&dates=ffffff)](https://git.io/streak-stats)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JishiTeam-J1wa&theme=tokyo-night&area=true&hide_border=false&border_color=FF6B35&line=FF6B35&point=FF2A6D&color=FF8C42)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
 ---
@@ -57,14 +83,103 @@
 
 <div align="center">
 
-| 项目 | 描述 | 技术栈 |
-|------|------|--------|
-| **[HackMITM](https://github.com/JishiTeam-J1wa/hackmitm)** | 高性能 MITM 代理工具，纯 Go 实现，企业级 TLS 证书管理 | Go |
-| **[WebFingerCat](https://github.com/JishiTeam-J1wa/WebFingerCat)** | 智能指纹识别工具，主被动交互式扫描，高精度识别 | Go |
-| **[DirAScan](https://github.com/JishiTeam-J1wa/DirAScan)** | AI 驱动目录扫描器，机器学习字典生成，自适应优化 | Go |
-| **[FuckSpringScan](https://github.com/JishiTeam-J1wa/FuckSpringScan)** | Spring 框架专项漏洞扫描，精准 PoC 集成 | Go |
-| **[AoEo](https://github.com/JishiTeam-J1wa/AoEo)** | 自动化安全运营与编排平台，多源数据聚合 | Go |
-| **[Xunfeng](https://github.com/JishiTeam-J1wa/Xunfeng)** | 企业级资产测绘与漏洞扫描，分布式资产发现 | Go |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### **HackMITM**
+[![Repo Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JishiTeam-J1wa&repo=hackmitm&theme=tokyonight&border_color=FF6B35&title_color=FF6B35&icon_color=FF8C42)](https://github.com/JishiTeam-J1wa/hackmitm)
+
+[![Stars](https://img.shields.io/github/stars/JishiTeam-J1wa/hackmitm?style=flat-square&logo=github&color=FF6B35)](https://github.com/JishiTeam-J1wa/hackmitm)
+[![Forks](https://img.shields.io/github/forks/JishiTeam-J1wa/hackmitm?style=flat-square&logo=github&color=FF8C42)](https://github.com/JishiTeam-J1wa/hackmitm)
+[![Language](https://img.shields.io/github/languages/top/JishiTeam-J1wa/hackmitm?style=flat-square&color=FF2A6D)](https://github.com/JishiTeam-J1wa/hackmitm)
+
+高性能 MITM 代理工具，纯 Go 实现，企业级 TLS 证书管理
+
+</td>
+<td width="50%" valign="top">
+
+### **WebFingerCat**
+[![Repo Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JishiTeam-J1wa&repo=WebFingerCat&theme=tokyonight&border_color=FF6B35&title_color=FF6B35&icon_color=FF8C42)](https://github.com/JishiTeam-J1wa/WebFingerCat)
+
+[![Stars](https://img.shields.io/github/stars/JishiTeam-J1wa/WebFingerCat?style=flat-square&logo=github&color=FF6B35)](https://github.com/JishiTeam-J1wa/WebFingerCat)
+[![Forks](https://img.shields.io/github/forks/JishiTeam-J1wa/WebFingerCat?style=flat-square&logo=github&color=FF8C42)](https://github.com/JishiTeam-J1wa/WebFingerCat)
+[![Language](https://img.shields.io/github/languages/top/JishiTeam-J1wa/WebFingerCat?style=flat-square&color=FF2A6D)](https://github.com/JishiTeam-J1wa/WebFingerCat)
+
+智能指纹识别工具，主被动交互式扫描，高精度识别
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### **DirAScan** (DirA+)
+[![Repo Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JishiTeam-J1wa&repo=DirAScan&theme=tokyonight&border_color=FF6B35&title_color=FF6B35&icon_color=FF8C42)](https://github.com/JishiTeam-J1wa/DirAScan)
+
+[![Stars](https://img.shields.io/github/stars/JishiTeam-J1wa/DirAScan?style=flat-square&logo=github&color=FF6B35)](https://github.com/JishiTeam-J1wa/DirAScan)
+[![Forks](https://img.shields.io/github/forks/JishiTeam-J1wa/DirAScan?style=flat-square&logo=github&color=FF8C42)](https://github.com/JishiTeam-J1wa/DirAScan)
+[![Language](https://img.shields.io/github/languages/top/JishiTeam-J1wa/DirAScan?style=flat-square&color=FF2A6D)](https://github.com/JishiTeam-J1wa/DirAScan)
+
+AI 驱动目录扫描器，机器学习字典生成，自适应优化
+
+</td>
+<td width="50%" valign="top">
+
+### **FuckSpringScan**
+[![Repo Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JishiTeam-J1wa&repo=FuckSpringScan&theme=tokyonight&border_color=FF6B35&title_color=FF6B35&icon_color=FF8C42)](https://github.com/JishiTeam-J1wa/FuckSpringScan)
+
+[![Stars](https://img.shields.io/github/stars/JishiTeam-J1wa/FuckSpringScan?style=flat-square&logo=github&color=FF6B35)](https://github.com/JishiTeam-J1wa/FuckSpringScan)
+[![Forks](https://img.shields.io/github/forks/JishiTeam-J1wa/FuckSpringScan?style=flat-square&logo=github&color=FF8C42)](https://github.com/JishiTeam-J1wa/FuckSpringScan)
+[![Language](https://img.shields.io/github/languages/top/JishiTeam-J1wa/FuckSpringScan?style=flat-square&color=FF2A6D)](https://github.com/JishiTeam-J1wa/FuckSpringScan)
+
+Spring 框架专项漏洞扫描，精准 PoC 集成
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### **AoEo**
+[![Repo Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JishiTeam-J1wa&repo=AoEo&theme=tokyonight&border_color=FF6B35&title_color=FF6B35&icon_color=FF8C42)](https://github.com/JishiTeam-J1wa/AoEo)
+
+[![Stars](https://img.shields.io/github/stars/JishiTeam-J1wa/AoEo?style=flat-square&logo=github&color=FF6B35)](https://github.com/JishiTeam-J1wa/AoEo)
+[![Forks](https://img.shields.io/github/forks/JishiTeam-J1wa/AoEo?style=flat-square&logo=github&color=FF8C42)](https://github.com/JishiTeam-J1wa/AoEo)
+[![Language](https://img.shields.io/github/languages/top/JishiTeam-J1wa/AoEo?style=flat-square&color=FF2A6D)](https://github.com/JishiTeam-J1wa/AoEo)
+
+自动化安全运营与编排平台，多源数据聚合
+
+</td>
+<td width="50%" valign="top">
+
+### **Xunfeng**
+[![Repo Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JishiTeam-J1wa&repo=Xunfeng&theme=tokyonight&border_color=FF6B35&title_color=FF6B35&icon_color=FF8C42)](https://github.com/JishiTeam-J1wa/Xunfeng)
+
+[![Stars](https://img.shields.io/github/stars/JishiTeam-J1wa/Xunfeng?style=flat-square&logo=github&color=FF6B35)](https://github.com/JishiTeam-J1wa/Xunfeng)
+[![Forks](https://img.shields.io/github/forks/JishiTeam-J1wa/Xunfeng?style=flat-square&logo=github&color=FF8C42)](https://github.com/JishiTeam-J1wa/Xunfeng)
+[![Language](https://img.shields.io/github/languages/top/JishiTeam-J1wa/Xunfeng?style=flat-square&color=FF2A6D)](https://github.com/JishiTeam-J1wa/Xunfeng)
+
+企业级资产测绘与漏洞扫描，分布式资产发现
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 工具矩阵
+
+<div align="center">
+
+| 类别 | 工具名称 | 描述 | Stars |
+|------|----------|------|-------|
+| MITM 代理 | [HackMITM](https://github.com/JishiTeam-J1wa/hackmitm) | 高性能 MITM 代理处理包 | ![Stars](https://img.shields.io/github/stars/JishiTeam-J1wa/hackmitm?style=flat-square&logo=github&color=FF6B35) |
+| 指纹识别 | [WebFingerCat](https://github.com/JishiTeam-J1wa/WebFingerCat) | 被动指纹检测与信息收集 | ![Stars](https://img.shields.io/github/stars/JishiTeam-J1wa/WebFingerCat?style=flat-square&logo=github&color=FF6B35) |
+| 目录扫描 | [DirAScan](https://github.com/JishiTeam-J1wa/DirAScan) | AI 驱动的智能目录扫描工具 | ![Stars](https://img.shields.io/github/stars/JishiTeam-J1wa/DirAScan?style=flat-square&logo=github&color=FF6B35) |
+| Spring 扫描 | [FuckSpringScan](https://github.com/JishiTeam-J1wa/FuckSpringScan) | Spring 框架专项漏洞扫描 | ![Stars](https://img.shields.io/github/stars/JishiTeam-J1wa/FuckSpringScan?style=flat-square&logo=github&color=FF6B35) |
+| 安全编排 | [AoEo](https://github.com/JishiTeam-J1wa/AoEo) | 自动化安全运营与编排平台 | ![Stars](https://img.shields.io/github/stars/JishiTeam-J1wa/AoEo?style=flat-square&logo=github&color=FF6B35) |
+| 资产测绘 | [Xunfeng](https://github.com/JishiTeam-J1wa/Xunfeng) | 企业级资产测绘与漏洞扫描 | ![Stars](https://img.shields.io/github/stars/JishiTeam-J1wa/Xunfeng?style=flat-square&logo=github&color=FF6B35) |
 
 </div>
 
