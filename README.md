@@ -1,16 +1,16 @@
-&lt;div align="center"&gt;
+<div align="center">
 
 # 🛡️ 击势安全团队 JishiTeam-J1wa
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=网络安全研究团队;渗透测试工具开发;与清风斗。;I+Love+Security+%26+Code)](https://git.io/typing-svg)
 
-&lt;img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF6B35,FF8C42,FF2A6D&height=180&section=header&text=击势安全团队&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/&gt;
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF6B35,FF8C42,FF2A6D&height=180&section=header&text=击势安全团队&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-&lt;/div&gt;
+</div>
 
 ---
 
-&lt;div align="center"&gt;
+<div align="center">
 
 ## 🚀 关于我们
 
@@ -22,13 +22,13 @@
 [![⚡ 工具开发](https://img.shields.io/badge/-%E2%9A%A1%20%E5%B7%A5%E5%85%B7%E5%BC%80%E5%8F%91-FF8C42?style=for-the-badge)](https://github.com/JishiTeam-J1wa)
 [![🔥 渗透测试](https://img.shields.io/badge/-%F0%9F%94%A5%20%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95-FF2A6D?style=for-the-badge)](https://github.com/JishiTeam-J1wa)
 
-&lt;/div&gt;
+</div>
 
 ---
 
 ## 🛠️ 技术栈 & 专业领域
 
-&lt;div align="center"&gt;
+<div align="center">
 
 ### 💻 编程语言
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -49,17 +49,17 @@
 ![Nmap](https://img.shields.io/badge/Nmap-FF6B35?style=for-the-badge&logo=nmap&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-FF8C42?style=for-the-badge&logo=wireshark&logoColor=white)
 
-&lt;/div&gt;
+</div>
 
 ---
 
 ## 🔥 核心项目展示
 
-&lt;div align="center"&gt;
+<div align="center">
 
-&lt;table&gt;
-&lt;tr&gt;
-&lt;td width="50%" valign="top"&gt;
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🚀 **HackMITM** ⭐ *最新力作*
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JishiTeam-J1wa&repo=hackmitm&theme=tokyonight&border_color=FF6B35&title_color=FF6B35&icon_color=FF8C42)](https://github.com/JishiTeam-J1wa/hackmitm)
@@ -70,8 +70,8 @@
 - ⚡ 高并发处理架构
 - 🧩 模块化可扩展设计
 
-&lt;/td&gt;
-&lt;td width="50%" valign="top"&gt;
+</td>
+<td width="50%" valign="top">
 
 ### 🕵️ **WebFingerCat**
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JishiTeam-J1wa&repo=WebFingerCat&theme=tokyonight&border_color=FF6B35&title_color=FF6B35&icon_color=FF8C42)](https://github.com/JishiTeam-J1wa/WebFingerCat)
@@ -82,10 +82,10 @@
 - 🛡️ 敏感信息收集
 - ⚙️ 灵活的 FUZZ 功能
 
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td width="50%" valign="top"&gt;
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🧠 **DirAScan** (DirA+)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JishiTeam-J1wa&repo=DirAScan&theme=tokyonight&border_color=FF6B35&title_color=FF6B35&icon_color=FF8C42)](https://github.com/JishiTeam-J1wa/DirAScan)
@@ -96,8 +96,8 @@
 - ⚡ 高效精准扫描
 - 📚 自适应字典优化
 
-&lt;/td&gt;
-&lt;td width="50%" valign="top"&gt;
+</td>
+<td width="50%" valign="top">
 
 ### 🎯 **FuckSpringScan**
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JishiTeam-J1wa&repo=FuckSpringScan&theme=tokyonight&border_color=FF6B35&title_color=FF6B35&icon_color=FF8C42)](https://github.com/JishiTeam-J1wa/FuckSpringScan)
@@ -108,10 +108,10 @@
 - 🛡️ 优秀安全对抗能力
 - 📚 高效字典目录
 
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td width="50%" valign="top"&gt;
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🔴 **1LoveRuby++**
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JishiTeam-J1wa&repo=1LoveRuby-&theme=tokyonight&border_color=FF6B35&title_color=FF6B35&icon_color=FF8C42)](https://github.com/JishiTeam-J1wa/1LoveRuby-)
@@ -122,8 +122,8 @@
 - 🧩 插件化架构设计
 - 📊 可视化报告输出
 
-&lt;/td&gt;
-&lt;td width="50%" valign="top"&gt;
+</td>
+<td width="50%" valign="top">
 
 ### 📡 **朱厌 ZhuYan**
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JishiTeam-J1wa&repo=ZhuYan&theme=tokyonight&border_color=FF6B35&title_color=FF6B35&icon_color=FF8C42)](https://github.com/JishiTeam-J1wa/ZhuYan)
@@ -134,10 +134,10 @@
 - ⚡ 实时威胁情报推送
 - 🔍 多维度数据关联分析
 
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td width="50%" valign="top"&gt;
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🎯 **GlaoexpSP**
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JishiTeam-J1wa&repo=GlaoexpSP&theme=tokyonight&border_color=FF6B35&title_color=FF6B35&icon_color=FF8C42)](https://github.com/JishiTeam-J1wa/GlaoexpSP)
@@ -148,8 +148,8 @@
 - ⚡ 自动化风险评估
 - 🔗 多源数据聚合分析
 
-&lt;/td&gt;
-&lt;td width="50%" valign="top"&gt;
+</td>
+<td width="50%" valign="top">
 
 ### 📋 **Choccy**
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JishiTeam-J1wa&repo=Choccy&theme=tokyonight&border_color=FF6B35&title_color=FF6B35&icon_color=FF8C42)](https://github.com/JishiTeam-J1wa/Choccy)
@@ -160,32 +160,32 @@
 - ⚡ 漏洞预警通知
 - 📊 安全态势可视化
 
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/table&gt;
+</td>
+</tr>
+</table>
 
-&lt;/div&gt;
+</div>
 
 ---
 
 ## 📊 GitHub 数据统计
 
-&lt;div align="center"&gt;
+<div align="center">
 
-&lt;img height="180em" src="https://github-readme-stats.vercel.app/api?username=JishiTeam-J1wa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=FF6B35&title_color=FF6B35&icon_color=FF8C42&text_color=ffffff"/&gt;
-&lt;img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JishiTeam-J1wa&layout=compact&langs_count=8&theme=tokyonight&border_color=FF6B35&title_color=FF6B35&text_color=ffffff"/&gt;
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JishiTeam-J1wa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=FF6B35&title_color=FF6B35&icon_color=FF8C42&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JishiTeam-J1wa&layout=compact&langs_count=8&theme=tokyonight&border_color=FF6B35&title_color=FF6B35&text_color=ffffff"/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JishiTeam-J1wa&theme=tokyonight&border=FF6B35&stroke=FF6B35&ring=FF8C42&fire=FF2A6D&currStreakNum=FF6B35&sideNums=FF8C42&currStreakLabel=FF6B35&sideLabels=FF8C42&dates=ffffff)](https://git.io/streak-stats)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JishiTeam-J1wa&theme=tokyo-night&area=true&hide_border=false&border_color=FF6B35&line=FF6B35&point=FF2A6D&color=FF8C42)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-&lt;/div&gt;
+</div>
 
 ---
 
 ## 🛡️ 我们的工具矩阵
 
-&lt;div align="center"&gt;
+<div align="center">
 
 | 类别 | 工具名称 | 描述 | 状态 |
 |------|----------|------|------|
@@ -199,13 +199,13 @@
 | 📋 **监控工具** | [Choccy](https://github.com/JishiTeam-J1wa/Choccy) | GitHub 项目监控 & CodeQL 扫描 | 🟢 活跃 |
 | 🗂️ **信息收集** | [gshark](https://github.com/JishiTeam-J1wa/gshark) | 敏感信息搜索和检测 | 🟢 活跃 |
 
-&lt;/div&gt;
+</div>
 
 ---
 
 ## 📬 联系方式 & 社交媒体
 
-&lt;div align="center"&gt;
+<div align="center">
 
 ### 🌐 找到我们
 
@@ -218,17 +218,17 @@
 [![Email](https://img.shields.io/badge/Gmail-FF8C42?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@jishiteam.com)
 [![Website](https://img.shields.io/badge/官网-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jishiteam.com)
 
-&lt;/div&gt;
+</div>
 
 ---
 
-&lt;div align="center"&gt;
+<div align="center">
 
 ## 🎨 访客足迹
 
 ![Visitor Count](https://profile-counter.glitch.me/JishiTeam-J1wa/count.svg)
 
-&lt;img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF6B35,FF8C42,FF2A6D&height=100&section=footer&fontSize=0"/&gt;
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF6B35,FF8C42,FF2A6D&height=100&section=footer&fontSize=0"/>
 
 ---
 
@@ -238,4 +238,4 @@
 
 *Made with ❤️ by 击势安全团队*
 
-&lt;/div&gt;
+</div>
