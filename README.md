@@ -94,7 +94,7 @@
 [![Forks](https://img.shields.io/github/forks/JishiTeam-J1wa/hackmitm?style=flat-square&logo=github&color=FF8C42)](https://github.com/JishiTeam-J1wa/hackmitm)
 [![Language](https://img.shields.io/github/languages/top/JishiTeam-J1wa/hackmitm?style=flat-square&color=FF2A6D)](https://github.com/JishiTeam-J1wa/hackmitm)
 
-高性能 MITM 代理工具，纯 Go 实现，企业级 TLS 证书管理
+类 Burp 的代理渗透工具，支持流量拦截、改包与漏洞探测
 
 </td>
 <td width="50%" valign="top">
@@ -146,7 +146,7 @@ Spring 框架专项漏洞扫描，精准 PoC 集成
 [![Forks](https://img.shields.io/github/forks/JishiTeam-J1wa/AoEo?style=flat-square&logo=github&color=FF8C42)](https://github.com/JishiTeam-J1wa/AoEo)
 [![Language](https://img.shields.io/github/languages/top/JishiTeam-J1wa/AoEo?style=flat-square&color=FF2A6D)](https://github.com/JishiTeam-J1wa/AoEo)
 
-自动化安全运营与编排平台，多源数据聚合
+AI API 管理与处理组件，统一调度多源大模型接口
 
 </td>
 <td width="50%" valign="top">
@@ -158,7 +158,7 @@ Spring 框架专项漏洞扫描，精准 PoC 集成
 [![Forks](https://img.shields.io/github/forks/JishiTeam-J1wa/Xunfeng?style=flat-square&logo=github&color=FF8C42)](https://github.com/JishiTeam-J1wa/Xunfeng)
 [![Language](https://img.shields.io/github/languages/top/JishiTeam-J1wa/Xunfeng?style=flat-square&color=FF2A6D)](https://github.com/JishiTeam-J1wa/Xunfeng)
 
-企业级资产测绘与漏洞扫描，分布式资产发现
+寻风 (XunFeng) - 本地信息收集工具，高效采集与整理目标数据
 
 </td>
 </tr>
@@ -174,12 +174,12 @@ Spring 框架专项漏洞扫描，精准 PoC 集成
 
 | 类别 | 工具名称 | 描述 | Stars |
 |------|----------|------|-------|
-| MITM 代理 | [HackMITM](https://github.com/JishiTeam-J1wa/hackmitm) | 高性能 MITM 代理处理包 | ![Stars](https://img.shields.io/github/stars/JishiTeam-J1wa/hackmitm?style=flat-square&logo=github&color=FF6B35) |
+| 代理渗透 | [HackMITM](https://github.com/JishiTeam-J1wa/hackmitm) | 类 Burp 的代理渗透工具，支持流量拦截与改包 | ![Stars](https://img.shields.io/github/stars/JishiTeam-J1wa/hackmitm?style=flat-square&logo=github&color=FF6B35) |
 | 指纹识别 | [WebFingerCat](https://github.com/JishiTeam-J1wa/WebFingerCat) | 被动指纹检测与信息收集 | ![Stars](https://img.shields.io/github/stars/JishiTeam-J1wa/WebFingerCat?style=flat-square&logo=github&color=FF6B35) |
 | 目录扫描 | [DirAScan](https://github.com/JishiTeam-J1wa/DirAScan) | AI 驱动的智能目录扫描工具 | ![Stars](https://img.shields.io/github/stars/JishiTeam-J1wa/DirAScan?style=flat-square&logo=github&color=FF6B35) |
 | Spring 扫描 | [FuckSpringScan](https://github.com/JishiTeam-J1wa/FuckSpringScan) | Spring 框架专项漏洞扫描 | ![Stars](https://img.shields.io/github/stars/JishiTeam-J1wa/FuckSpringScan?style=flat-square&logo=github&color=FF6B35) |
-| 安全编排 | [AoEo](https://github.com/JishiTeam-J1wa/AoEo) | 自动化安全运营与编排平台 | ![Stars](https://img.shields.io/github/stars/JishiTeam-J1wa/AoEo?style=flat-square&logo=github&color=FF6B35) |
-| 资产测绘 | [Xunfeng](https://github.com/JishiTeam-J1wa/Xunfeng) | 企业级资产测绘与漏洞扫描 | ![Stars](https://img.shields.io/github/stars/JishiTeam-J1wa/Xunfeng?style=flat-square&logo=github&color=FF6B35) |
+| AI 组件 | [AoEo](https://github.com/JishiTeam-J1wa/AoEo) | AI API 管理与处理组件，统一调度大模型接口 | ![Stars](https://img.shields.io/github/stars/JishiTeam-J1wa/AoEo?style=flat-square&logo=github&color=FF6B35) |
+| 信息收集 | [Xunfeng](https://github.com/JishiTeam-J1wa/Xunfeng) | 寻风 (XunFeng) - 本地信息收集工具 | ![Stars](https://img.shields.io/github/stars/JishiTeam-J1wa/Xunfeng?style=flat-square&logo=github&color=FF6B35) |
 
 </div>
 
