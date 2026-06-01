@@ -18,7 +18,7 @@
 
 [![🏆 安全研究](https://img.shields.io/badge/-%F0%9F%8F%86%20%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6-FF6B35?style=for-the-badge)](https://github.com/JishiTeam-J1wa)
 [![⚡ 工具开发](https://img.shields.io/badge/-%E2%9A%A1%20%E5%B7%A5%E5%85%B7%E5%BC%80%E5%8F%91-FF8C42?style=for-the-badge)](https://github.com/JishiTeam-J1wa)
-[![🔥 渗透测试](https://img.shields.io/badge/-%F0%9F%94%A5%20%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95-FF2A6D?style=for-the-badge)](https://github.com/JishiTeam-J1wa)
+[![🔥 渗透测试](https://img.shields.io/badge/-%F0%9F%94%A5%20%E6%B8%97%E9%80%8F%E6%B6%B5%E8%AF%95-FF2A6D?style=for-the-badge)](https://github.com/JishiTeam-J1wa)
 
 &lt;/div&gt;
 
